@@ -2,6 +2,7 @@
 A Geode Mod/Python Script that corrupts Geometry Dash's resources, levels, and in-game Cocos properties.
 
 # Watch the full video here!
+https://www.youtube.com/watch?v=TlBYzvinw2k
 
 # Instructions:
 1. Download the script folder, and run main.py.
